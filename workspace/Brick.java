@@ -1,7 +1,7 @@
 /*
  * Author: Mr. M
- * Date: 12/02/24
- * Description: This component is the non-moving bricks which the user will need to eliminate by hitting them
+ * Date: iption: This component is the non-moving bricks which the user will need to eliminate by hitting them12/02/24
+ * Descr
  * with the ball. The bricks will be drawn in a static position and will have varying colors based on their remaining HP. (white - blue - red)
  */
 
